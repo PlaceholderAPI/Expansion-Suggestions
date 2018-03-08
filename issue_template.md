@@ -2,6 +2,6 @@
 
 ### Expansion Plugin URL
 
-### Possibly Placeholders
+### Possible Placeholders
 
 ### Why Would It Be Beneficial?
